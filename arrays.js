@@ -4,7 +4,7 @@
 //Mostre o valor "Volvo" do array "cars":
 
 const cars = ["Saab", "Volvo", "BMW"]
-console.log(cars[2])
+console.log(cars[1])
 
 
 //Mude o primeiro item de "cars" para "Ford":
