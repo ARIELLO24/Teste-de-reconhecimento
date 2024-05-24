@@ -3,7 +3,7 @@
 //Execute a função chamada myFunction:
 
 function myFunction() {
-    alert("Hello World!");
+    alert("Hello World!")
   }
   myFunction()
   
