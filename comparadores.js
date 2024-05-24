@@ -10,9 +10,9 @@ console.log(x>y)
 x = 10;
 y = 5;
 if (x === y) {
-  console.log("Verdadeiro");
+  console.log("Verdadeiro")
 } else {
-  console.log("Falso");
+  console.log("Falso")
 }
 
 
