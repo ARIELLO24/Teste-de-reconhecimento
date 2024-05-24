@@ -27,4 +27,4 @@ const person = {
   }
   
   
-  console.log(`ola meu nome é ${person3.name} e tenho ${person3.age}`);
+  console.log(`ola meu nome é ${person3.name} e tenho ${person3.age}`)
